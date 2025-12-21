@@ -1,0 +1,38 @@
+
+  
+  html,body
+  {
+    margin:0;
+    height:100%;
+  }
+  body
+  { background:black;
+    background-image:url("https://preview.redd.it/does-anyone-know-how-to-create-the-netflix-colored-lines-v0-zp69f0bdm13e1.jpeg?width=640&crop=smart&auto=webp&s=e8a501ff6eca78eaaa609f4b1c49eb0f232869fc");
+    background-repeat:no-repeat;
+    background-size:cover;
+    color:white;
+    }
+
+.img2
+    {
+        width:100px;
+        height:80px;
+    }
+
+.top
+{
+    align-items: center;
+    display:flex;
+    justify-content:space-between;
+    padding:30px;
+}
+
+.info
+{
+    align-items:center;
+    display:flex;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
