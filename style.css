@@ -36,3 +36,40 @@
     
 }
 
+#mainsection
+{
+    margin-left:auto;
+    margin-right:auto;
+    display:grid;
+    justify-content:center;
+    place-items: center;
+}
+
+.cards-container
+{
+    display:flex;
+    flex-wrap:wrap ;
+    justify-content:center;
+    gap:50px
+}
+
+.card
+{
+    width: 300px;
+    height:300px;
+    flex-direction:row;
+    
+  
+}
+
+.card-image
+{
+    width: 300x;
+    height: 300px;
+    border-radius:  70px;
+    flex-direction:row;
+}
+
+
+
+
