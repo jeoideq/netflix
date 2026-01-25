@@ -11,6 +11,7 @@
     background-repeat:no-repeat;
     background-size:cover;
     color:white;
+    background-attachment: fixed;
     }
 
 .img2
@@ -27,9 +28,32 @@
     padding:30px;
 }
 
+.b2
+{
+    color:white;
+    font-size:30px;
+    justify-content: center;
+    margin-left:auto;
+    margin-right: auto;
+    justify-content:center;
+    place-items:center;
+
+
+}
+
+.b3
+{
+    color:white;
+    font-size: medium;
+    font-size:30px;
+
+}
+
+
 .info
 {
-    align-items:center;
+    justify-content:center;
+    place-items:center;
     display:flex;
     margin-left:auto;
     margin-right:auto;
@@ -43,6 +67,9 @@
     display:grid;
     justify-content:center;
     place-items: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
 }
 
 .cards-container
